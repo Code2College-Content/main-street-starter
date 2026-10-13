@@ -1,0 +1,15 @@
+{
+  "name": "Main Street Hardware sales",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "postCreateCommand": "pip install --user pandas matplotlib",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "ms-python.python",
+        "ms-vscode.live-server"
+      ]
+    }
+  }
+}

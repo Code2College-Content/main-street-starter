@@ -1,0 +1,70 @@
+date,item,category,quantity,unit_price
+2025-10-01,Steel Garden Rake,Tools,1,27.49
+2025-10-02,Horse Hay Cubes 40 lb,feed,5,22.99
+2025-10-02,Sweet Corn Seed 1 lb,seed,1,14.99
+2025-10-02,Woven Field Fence 330 ft,Fencing,1,229.00
+2025-10-03,Horse Hay Cubes 40 lb,Feed,2,22.99
+2025-10-03,Layer Pellets 50 lb,Feed,3,21.99
+2025-10-03,Sweet Corn Seed 1 lb,seed,6,14.99
+2025-10-03,Woven Field Fence 330 ft,Fence,-1,229.00
+2025-10-04,All Stock Sweet Feed 50 lb,Feed,4,18.49
+2025-10-04,Steel T Post 6 ft,Fencing,-1,6.49
+2025-10-04,Woven Field Fence 330 ft,Fencing,1,229.00
+2025-10-05,Horse Hay Cubes 40 lb,feed,5,22.99
+2025-10-05,Round Point Shovel,Tools,1,32.99
+2025-10-06,All Stock Sweet Feed 50 lb,feed,4,18.49
+2025-10-06,Barbed Wire 1320 ft,Fencing,2,89.99
+2025-10-06,Woven Field Fence 330 ft,Fencing,1,229.00
+2025-10-07,All Stock Sweet Feed 50 lb,FEED,8,18.49
+2025-10-08,Barbed Wire 1320 ft,Fencing,3,89.99
+2025-10-08,Post Hole Digger,Tools,1,44.99
+2025-10-10,Deck Screws 1 lb,Hardware,6,11.49
+2025-10-10,Galvanized Nails 5 lb,Hardware,1,16.99
+2025-10-10,Steel T Post 6 ft,Fence,18,6.49
+2025-10-11,Galvanized Nails 5 lb,Hardware,2,16.99
+2025-10-11,Pasture Grass Seed 50 lb,Seeds,1,119.00
+2025-10-11,Steel Garden Rake,Tools,1,27.49
+2025-10-11,Steel T Post 6 ft,Fencing,33,6.49
+2025-10-12,Round Point Shovel,Tool,2,32.99
+2025-10-13,Layer Pellets 50 lb,feed,5,21.99
+2025-10-13,Steel Garden Rake,tools,1,27.49
+2025-10-13,Woven Field Fence 330 ft,Fencing,1,229.00
+2025-10-14,Barbed Wire 1320 ft,fencing,5,89.99
+2025-10-14,Pasture Grass Seed 50 lb,Seed,1,119.00
+2025-10-14,Steel T Post 6 ft,Fencing,30,6.49
+2025-10-15,Steel T Post 6 ft,fencing,46,6.49
+2025-10-16,Layer Pellets 50 lb,Feed,4,21.99
+2025-10-16,Steel T Post 6 ft,Fencing,1,6.49
+2025-10-18,All Stock Sweet Feed 50 lb,Feed,6,18.49
+2025-10-18,All Stock Sweet Feed 50 lb,Feed,-1,18.49
+2025-10-18,Galvanized Nails 5 lb,Hdwe,3,16.99
+2025-10-18,Steel T Post 6 ft,Fencing,35,6.49
+2025-10-18,Woven Field Fence 330 ft,Fencing,1,229.00
+2025-10-19,Brass Padlock,hardware,2,13.99
+2025-10-19,Brass Padlock,Hardware,1,13.99
+2025-10-19,Steel T Post 6 ft,Fencing,17,6.49
+2025-10-19,Woven Field Fence 330 ft,fencing,1,229.00
+2025-10-20,All Stock Sweet Feed 50 lb,Feed,3,18.49
+2025-10-21,All Stock Sweet Feed 50 lb,Feed,3,18.49
+2025-10-21,Barbed Wire 1320 ft,Fencing,3,89.99
+2025-10-22,Barbed Wire 1320 ft,Fencing,2,89.99
+2025-10-22,Pasture Grass Seed 50 lb,Seed,1,119.00
+2025-10-22,Post Hole Digger,Tools,1,44.99
+2025-10-22,Woven Field Fence 330 ft,fencing,1,229.00
+2025-10-24,All Stock Sweet Feed 50 lb,Feed,3,18.49
+2025-10-24,Layer Pellets 50 lb,Feed,6,21.99
+2025-10-25,Garden Bean Seed 1 lb,Seed,8,9.99
+2025-10-25,Layer Pellets 50 lb,Feed,6,21.99
+2025-10-25,Steel Garden Rake,Tool,1,27.49
+2025-10-26,Post Hole Digger,Tools,1,44.99
+2025-10-26,Steel T Post 6 ft,Fencing,27,6.49
+2025-10-27,Layer Pellets 50 lb,Feed,3,21.99
+2025-10-27,Woven Field Fence 330 ft,Fencing,1,229.00
+2025-10-28,Steel Garden Rake,tools,1,27.49
+2025-10-29,Steel Garden Rake,Tool,1,27.49
+2025-10-30,Horse Hay Cubes 40 lb,Feed,5,22.99
+2025-10-30,Horse Hay Cubes 40 lb,feed,1,22.99
+2025-10-30,Round Point Shovel,Tools,1,32.99
+2025-10-31,Brass Padlock,Hardware,1,13.99
+2025-10-31,Deck Screws 1 lb,Hdwe,4,11.49
+2025-10-31,Round Point Shovel,Tool,1,32.99

@@ -1,0 +1,84 @@
+date,item,category,quantity,unit_price
+04/01/2024,Garden Bean Seed 1 lb,Seeds,7,9.99
+04/02/2024,Barbed Wire 1320 ft,Fencing,2,89.99
+04/02/2024,Steel T Post 6 ft,Fencing,24,6.49
+04/02/2024,Sweet Corn Seed 1 lb,Seed,7,14.99
+04/02/2024,Woven Field Fence 330 ft,Fencing,1,229.00
+04/03/2024,Garden Bean Seed 1 lb,Seed,7,9.99
+04/03/2024,Pasture Grass Seed 50 lb,seed,1,119.00
+04/03/2024,Steel Garden Rake,Tools,1,27.49
+04/04/2024,Steel Garden Rake,Tool,1,27.49
+04/05/2024,Garden Bean Seed 1 lb,seed,7,9.99
+04/05/2024,Sweet Corn Seed 1 lb,Seed,8,14.99
+04/06/2024,Brass Padlock,Hardware,2,13.99
+04/06/2024,Galvanized Nails 5 lb,hardware,3,16.99
+04/06/2024,Sweet Corn Seed 1 lb,Seed,4,14.99
+04/06/2024,Woven Field Fence 330 ft,Fencing,1,229.00
+04/07/2024,All Stock Sweet Feed 50 lb,Feed,-1,18.49
+04/07/2024,Pasture Grass Seed 50 lb,Seed,1,119.00
+04/07/2024,Round Point Shovel,Tools,1,32.99
+04/08/2024,Horse Hay Cubes 40 lb,feed,2,22.99
+04/08/2024,Pasture Grass Seed 50 lb,Seed,1,119.00
+04/09/2024,Garden Bean Seed 1 lb,Seed,3,9.99
+04/09/2024,Garden Bean Seed 1 lb,Seed,2,9.99
+04/09/2024,Pasture Grass Seed 50 lb,Seeds,1,119.00
+04/10/2024,All Stock Sweet Feed 50 lb,Feed,2,18.49
+04/10/2024,Pasture Grass Seed 50 lb,Seed,1,119.00
+04/10/2024,Sweet Corn Seed 1 lb,seed,3,14.99
+04/10/2024,Woven Field Fence 330 ft,Fencing,1,229.00
+04/11/2024,Barbed Wire 1320 ft,fencing,3,89.99
+04/11/2024,Pasture Grass Seed 50 lb,Seed,1,119.00
+04/12/2024,Pasture Grass Seed 50 lb,Seed,1,119.00
+04/12/2024,Post Hole Digger,Tools,1,44.99
+04/12/2024,Sweet Corn Seed 1 lb,Seed,4,14.99
+04/13/2024,Garden Bean Seed 1 lb,Seed,6,9.99
+04/13/2024,Pasture Grass Seed 50 lb,Seed,1,119.00
+04/13/2024,Steel Garden Rake,Tools,1,27.49
+04/15/2024,Layer Pellets 50 lb,Feed,3,21.99
+04/15/2024,Layer Pellets 50 lb,Feed,-1,21.99
+04/15/2024,Pasture Grass Seed 50 lb,Seed,1,119.00
+04/15/2024,Sweet Corn Seed 1 lb,Seed,7,14.99
+04/15/2024,Sweet Corn Seed 1 lb,seed,3,14.99
+04/16/2024,Layer Pellets 50 lb,Feed,1,21.99
+04/16/2024,Post Hole Digger,Tools,1,44.99
+04/17/2024,All Stock Sweet Feed 50 lb,Feed,5,18.49
+04/17/2024,Pasture Grass Seed 50 lb,seed,1,119.00
+04/17/2024,Sweet Corn Seed 1 lb,Seed,3,14.99
+04/18/2024,Garden Bean Seed 1 lb,Seed,8,9.99
+04/18/2024,Pasture Grass Seed 50 lb,Seed,1,119.00
+04/18/2024,Steel Garden Rake,Tools,1,27.49
+04/18/2024,Sweet Corn Seed 1 lb,Seed,1,14.99
+04/19/2024,Pasture Grass Seed 50 lb,seed,1,119.00
+04/19/2024,Round Point Shovel,Tools,1,32.99
+04/20/2024,All Stock Sweet Feed 50 lb,feed,7,18.49
+04/20/2024,Brass Padlock,Hardware,3,13.99
+04/20/2024,Horse Hay Cubes 40 lb,Feed,6,22.99
+04/20/2024,Layer Pellets 50 lb,Feed,4,21.99
+04/21/2024,Garden Bean Seed 1 lb,Seed,4,9.99
+04/21/2024,Horse Hay Cubes 40 lb,feed,6,22.99
+04/21/2024,Pasture Grass Seed 50 lb,Seed,1,119.00
+04/21/2024,Steel Garden Rake,Tools,1,27.49
+04/21/2024,Steel T Post 6 ft,Fencing,47,6.49
+04/21/2024,Woven Field Fence 330 ft,Fencing,1,229.00
+04/22/2024,Pasture Grass Seed 50 lb,Seed,1,119.00
+04/22/2024,Steel Garden Rake,Tools,1,27.49
+04/22/2024,Sweet Corn Seed 1 lb,Seed,5,14.99
+04/23/2024,Pasture Grass Seed 50 lb,Seeds,1,119.00
+04/23/2024,Steel T Post 6 ft,Fencing,28,6.49
+04/25/2024,Pasture Grass Seed 50 lb,Seed,1,119.00
+04/25/2024,Round Point Shovel,Tools,1,32.99
+04/26/2024,Layer Pellets 50 lb,feed,5,21.99
+04/26/2024,Round Point Shovel,Tool,1,32.99
+04/26/2024,Sweet Corn Seed 1 lb,Seed,7,14.99
+04/27/2024,Deck Screws 1 lb,Hardware,6,11.49
+04/27/2024,Deck Screws 1 lb,Hardware,4,11.49
+04/27/2024,Galvanized Nails 5 lb,Hardware,3,16.99
+04/27/2024,Pasture Grass Seed 50 lb,Seed,1,119.00
+04/27/2024,Sweet Corn Seed 1 lb,seed,6,14.99
+04/28/2024,Layer Pellets 50 lb,feed,5,21.99
+04/28/2024,Pasture Grass Seed 50 lb,Seed,1,119.00
+04/29/2024,Barbed Wire 1320 ft,Fence,3,89.99
+04/29/2024,Post Hole Digger,Tools,1,44.99
+04/30/2024,All Stock Sweet Feed 50 lb,Feed,8,18.49
+04/30/2024,Round Point Shovel,Tools,2,32.99
+04/30/2024,Steel T Post 6 ft,Fencing,11,6.49
