@@ -1,6 +1,6 @@
 # Main Street Hardware & Feed: sales data (pair repo)
 
-Fictional business, made for practice in the Code2College apprenticeship.
+Fictional business, made for practice in the Code2College Development Program.
 This repo is public. Never put personal info here: no real names, no phone
 numbers, no passwords, no real client data.
 
